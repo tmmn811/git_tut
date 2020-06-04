@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-ABC
-=======
-ABCD
->>>>>>> new-branch-2
+A
+HOPE
+PIYO
+B
+C
+D
+E
