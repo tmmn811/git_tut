@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ABC
+=======
+ABCD
+>>>>>>> new-branch-2
